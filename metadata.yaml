@@ -1,0 +1,32 @@
+_repo: The-Story-of-Charles-Strange-Vol.-2--of-3-A-Novel_38624
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38624-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Mrs. Henry
+    - Price, Ellen
+    - Wood, Ellen Price
+    - Ludlow, Johnny
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'The Story of Charles Strange: A Novel. Vol. 2 (of 3)'
+url: http://www.gutenberg.org/ebooks/38624
